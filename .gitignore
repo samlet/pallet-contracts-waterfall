@@ -3,3 +3,5 @@
 /contracts/rust/**/target
 /contracts/solidity/**/*.wasm
 /contracts/solidity/**/*.json
+.idea/
+/.ipynb_checkpoints/
